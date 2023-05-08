@@ -11,9 +11,15 @@ Using string ,removed the punctuation present in the data.
 
 #Converted the data into tokens
 
+Tokenize each sentence using word_tokenizer
+
 #Removed the stop words
 
+Filter using stopwords
+
 #Calculated the word frequency
+
+Calculate the frequency of the words
 
 #Plot the wordcloud
 
