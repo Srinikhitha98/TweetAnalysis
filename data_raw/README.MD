@@ -1,8 +1,20 @@
-Sri Nikhitha Boddapati
+In the dataset, we have 3798 rows and 5 columns.
 
-16322365
+#Cleaning the data
 
-The data file  contains data of 768 patients.
+Check for null values - Location has 834 values since we are performing analysis on Tweet data ,it has 0 null values
+Check for duplicate values -  No duplicate values
 
-In this data there are 8 attributes (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, and Age) 
+#Remove the punctuation
+
+Using string ,removed the punctuation present in the data.
+
+#Converted the data into tokens
+
+#Removed the stop words
+
+#Calculated the word frequency
+
+#Plot the wordcloud
+
 
